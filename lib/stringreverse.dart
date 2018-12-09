@@ -1,7 +1,5 @@
 library stringreverse;
 
-import 'dart:convert' show utf8;
-
 class StringReverseExtension {
   static String StringReverse(String value) {
     if (value == null) {
